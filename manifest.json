@@ -1,0 +1,14 @@
+{
+  "release": "LANG_ES_FIX",
+  "version": "1.0.0",
+  "entrypoint": "ASA_LANG_ES_FIX.bat",
+  "mode": "full_official_spanish_locres_with_missing_key_injection",
+  "launch_option": "-culture=es",
+  "managed_pak": "LANG_ES_FIX_P.pak",
+  "rollback": "same_bat_menu_option_3",
+  "sdino_project_id": 912815,
+  "shiny_project_id": 928548,
+  "source_csv": "source/correcciones_compiladas.csv",
+  "license": "MIT",
+  "copyright": "2026 Lewas_0 (lewrapar)"
+}
